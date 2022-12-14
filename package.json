@@ -1,5 +1,5 @@
 {
-  "name": "Baihuayruaytheme",
+  "name": "Baihuayruaytheme2",
   "theme": "Baihuayruaytheme2",
   "version": "1.0.2",
   "description": "Baihuayruaytheme3",
@@ -11,7 +11,7 @@
     "หวยออกอะไร",
     "ฝันเห็นงู"
   ],
-  "repository": "https://github.com/KD-77/Baihuayruaytheme",
+  "repository": "https://github.com/KD-77/Baihuayruaytheme2",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
